@@ -6,3 +6,9 @@ Average=total/len(score)
 
 print("total:",total)
 print("Average:",average)
+
+maximum = max(scores)
+minimum = min(scores)
+
+print("maximum",maximum)
+print("minimum",minimum)
