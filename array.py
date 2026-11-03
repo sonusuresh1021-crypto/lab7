@@ -5,4 +5,4 @@ Average=total/len(scores)
 
 
 print("total:",total)
-print("Average:",average)
+print("Average:",Average)
