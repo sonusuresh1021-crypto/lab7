@@ -1,7 +1,7 @@
 import sys
 scores = list(map(int,sys.argv[1:]))
 total = sum(scores)
-Average=total/len(score)
+Average=total/len(scores)
 
 
 print("total:",total)
